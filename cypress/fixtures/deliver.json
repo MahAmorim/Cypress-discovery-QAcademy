@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Marcela Amorim",
+    "cpf": "71738990010",
+    "email": "marcela@gmail.com",
+    "whatsapp": "67974368083",
+    "address": {
+      "postalCode": "08780060",
+      "street": "Rua Doutor Ricardo Vilela",
+      "number": "1313",
+      "details": "apto 3",
+      "district": "Centro",
+      "city_state": "Mogi das Cruzes/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Marcela Amorim",
+    "cpf": "85448abc068",
+    "email": "marcela@gmail.com",
+    "whatsapp": "67974368083",
+    "address": {
+      "postalCode": "08780060",
+      "street": "Rua Doutor Ricardo Vilela",
+      "number": "1313",
+      "details": "apto 3",
+      "district": "Centro",
+      "city_state": "Mogi das Cruzes/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Marcela Amorim",
+    "cpf": "71738990010",
+    "email": "ma.com.br",
+    "whatsapp": "67974368083",
+    "address": {
+      "postalCode": "08780060",
+      "street": "Rua Doutor Ricardo Vilela",
+      "number": "1313",
+      "details": "apto 3",
+      "district": "Centro",
+      "city_state": "Mogi das Cruzes/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
